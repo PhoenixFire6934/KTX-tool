@@ -1,10 +1,13 @@
+
 # ktx2png
 KTX decompression tool
 
 ## How to use:
 
--run ktx2png.py and the /ktx and /png folders will be created
+**-run ktx2png.py and the /ktx and /png folders will be created**
 
--put ktx files in /ktx folder
+**-put ktx files in /ktx folder**
 
--run again ktx2png.py
+**-run again ktx2png.py**
+
+*DONE! Files will be saved in /png folder!*
