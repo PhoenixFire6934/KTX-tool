@@ -1,23 +1,24 @@
 <h1 align="center">Welcome to ktx2png 👋</h1>
 
-> Basic KTX decompression tool
+> Basic KTX texture decompression tool using PVRTexTool CLI
 
 ### 🏠 [Homepage](https://github.com/PhoenixFire6879/ktx2png/blob/master/README.md)
 
 ## Prerequisites
 
 - python 3
+- you can only run this on Windows
 
 
 
 ## Usage
 
 ```sh
--run ktx2png.py and the /ktx and /png folders will be created
+-run ktx2png.py and wait for the /ktx and /png folders to be created
 
--put ktx files in /ktx folder
+-put textures files in /ktx folder
 
--run again ktx2png.py
+-run ktx2png.py again
 ```
 
 
