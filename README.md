@@ -28,11 +28,11 @@
 
 * Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
 * Discord: Phoenix™#6879
-* Twitter: @PhoenixBSArt (https://twitter.com/PhoenixBSArt)
+* Twitter: [@PhoenixBSArt](https://twitter.com/PhoenixBSArt)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/YouTube-downloader/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/PhoenixFire6879/ktx-tool/issues).
 
 ## Show your support
 
