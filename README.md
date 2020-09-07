@@ -7,7 +7,7 @@
 ## Prerequisites
 
 - python 3
-- you can only run this on Windows
+- you can only run this on Windows or Linux
 
 
 
