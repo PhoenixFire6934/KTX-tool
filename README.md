@@ -13,13 +13,14 @@
 
 ## Usage
 
-```
--run ktx2png.py and wait for the /ktx and /png folders to be created
 
--put textures files in /ktx folder
+- run ```ktx2png.py``` and wait for the /ktx and /png folders to be created
 
--run ktx2png.py again
-```
+- put textures files in /ktx folder
+
+- run ```ktx2png.py``` again
+
+
 
 
 ## Author
