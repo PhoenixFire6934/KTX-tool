@@ -28,7 +28,7 @@
 👤 **Phoenix**
 
 * Github: [@PhoenixFire6879](https://github.com/PhoenixFire6879)
-* Discord: Phoenix™#6879
+* Discord: PhoenixFire#6879
 * Twitter: [@PhoenixBSArt](https://twitter.com/PhoenixBSArt)
 
 ## 🤝 Contributing
