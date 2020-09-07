@@ -13,7 +13,7 @@
 
 ## Usage
 
-```sh
+```
 -run ktx2png.py and wait for the /ktx and /png folders to be created
 
 -put textures files in /ktx folder
